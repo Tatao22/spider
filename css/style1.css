@@ -1,0 +1,54 @@
+*{
+    box-sizing: border-box; 
+    padding: 0%;
+    margin: 0%;
+}
+
+#menuhorizontal {
+    font-family: 'Lilita One', cursive;
+    margin: 0;
+    padding:0;
+    list-style-type:none;
+    } #menuhorizontal a { width: 300px;
+    text-decoration:none;
+    text-align:center;
+    color:#000000;
+    background-color:#e02323;
+    padding: 10px 160px;
+    
+ 
+    display: block; }
+    #menuhorizontal li {
+    float:left;
+    }
+    
+    #menuhorizontal a:hover {
+    background-color:#003e7c;
+    }
+
+    h1{
+        font-family: 'Lilita One', cursive;
+        color: #fff9f9;
+        text-align: center;
+    }
+    img{
+        border-style: solid;
+        border: #861111;
+        clear: left;
+    }
+    h2{
+        font-family: 'Lilita One';
+        color: #ffffff;
+        text-align: center;
+        font-size: 80px;
+       font-weight: 600;
+        
+    }
+    span{
+        color: #ffffff;
+        float: right ;
+    }
+    aside h1 {
+       float: right;
+       
+    }
